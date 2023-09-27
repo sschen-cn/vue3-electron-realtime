@@ -1,6 +1,6 @@
 {
-  "name": "client-vue3",
-  "version": "0.0.0",
+  "name": "electron-realtime",
+  "version": "0.0.1",
   "private": true,
   "scripts": {
     "dev": "vite",
@@ -25,6 +25,8 @@
     "@vue/eslint-config-prettier": "^8.0.0",
     "@vue/eslint-config-typescript": "^12.0.0",
     "@vue/tsconfig": "^0.4.0",
+    "electron": "^26.2.2",
+    "electron-builder": "^24.6.4",
     "eslint": "^8.49.0",
     "eslint-plugin-vue": "^9.17.0",
     "npm-run-all2": "^6.0.6",
